@@ -115,6 +115,5 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:4200",
-    "https://chat-proj-frontend-gy5kc6zxb-aris-projects-581d186e.vercel.app",
     "https://chat-proj-frontend.vercel.app"
 ]
